@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020077224916",
+    "project_id": "react-native-food-4781b",
+    "storage_bucket": "react-native-food-4781b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020077224916:android:f7a9c8152331dc23d51c41",
+        "android_client_info": {
+          "package_name": "com.firebasereactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7Wc3clSUgcVu14m3pBhHJCpqHa7NB7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
